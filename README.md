@@ -5,6 +5,10 @@
 - 🤔 http://sakura501.top (很久才会被记起√)
 - 💬 wechat: sakura501diantop
 - 🌱 Best wishes at last
+
+[![Sakura-501's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakura-501)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Sakura-501/Sakura-501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
