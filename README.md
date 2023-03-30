@@ -1,5 +1,10 @@
-### Hi there 👋
+### 👋 Web🐶@Kap0k | learing in SCUT
 
+- 🔭 2020信安专业在读
+- 🌱 啥都想学，啥也不会
+- 🤔 http://sakura.top(很久才会被记起√)
+- 💬 wechat: sakura501diantop
+- 🌱 Best wishes at last
 <!--
 **Sakura-501/Sakura-501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
