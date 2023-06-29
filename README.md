@@ -2,7 +2,6 @@
 
 - 🔭 2020信安专业在读
 - 🌱 啥都想学，啥也不会
-- 🤔 http://sakura501.top
 - 📫 sakura501.top@qq.com
 - 🌱 Best wishes at last
 
