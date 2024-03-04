@@ -1,8 +1,8 @@
 ### 👋 Web🐶@Kap0k | learing in SCUT
 
 - 🔭 20信安专业在读
-- 🌱 啥都想学，啥也不会
 - 📫 sakura501.top@qq.com
+- 🤔 Empty head
 - 🌱 Best wishes at last
 
 [![Sakura-501's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakura-501)](https://github.com/anuraghazra/github-readme-stats)
