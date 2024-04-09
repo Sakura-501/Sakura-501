@@ -1,6 +1,7 @@
-### 👋 Web🐶@Kap0k | learing in SCUT
+### 👋 
 
-- 🔭 20信安专业在读
+- 🔭 ctfer@Kap0k
+- 👯 learning at SCUT
 - 📫 sakura501.top@qq.com
 - 🤔 Empty head
 - 🌱 Best wishes at last
