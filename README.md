@@ -1,7 +1,7 @@
 ### 👋 
 
 - 🔭 ctfer@Kap0k
-- 👯 learning at SCUT
+- 👯 postgraduating in Hust
 - 📫 sakura501.top@qq.com
 - 🤔 Empty head
 - 🌱 Best wishes at last
